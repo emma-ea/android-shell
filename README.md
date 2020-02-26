@@ -7,3 +7,7 @@ system commands.
 its not that of a problem for android devices, which they all run a mod version of the linux kernel.
 
 this is a demo of trying out these classes. familiarity with linux commands is expected.
+
+## ....
+working commands [ls, ps]
+Basically any linux commands that output result to stdout
